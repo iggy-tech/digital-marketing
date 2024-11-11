@@ -12,7 +12,7 @@ const Footer = () => {
             height={10000}
             className="w-40"
             alt="image"
-          />{" "}
+          />
         </h1>
         <p className="text-left  text-xl  text-gray-500">302-513-6613</p>
         <p className="text-left  text-xl  text-gray-500">
@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
 
       <div className="flex md:justify-center gap-x-4 mt-10">
-        © 2024 Envision Digitals. All Rights Reserved.
+        © 2024 Bird. All Rights Reserved.
         <Link href="/" className="text-blue-500">
           Privacy Policy
         </Link>

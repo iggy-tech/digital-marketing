@@ -32,8 +32,8 @@ xl:w-4/5
     >
       <Link href="/">
       <Image
-        src="/logo/envisionDigitals.png"
-        alt="Envision Digitals"
+        src="/logo/envisionDigi"
+        alt="Bird Logo"
         width={1000}
         height={1000}
         className="w-28"

@@ -359,7 +359,7 @@ export default function Home() {
       <section>
         <main className="md:flex items-center justify-center space-y-6 md:space-y-0 md:gap-x-20 xl:w-4/5 2xl:w-[68%] mx-auto px-6 md:px-0">
           <Image
-            src={"/logo/envisionDigitals.png"}
+            src={"/logo/logo.webp"}
             width={10000}
             height={10000}
             className=" md:w-1/3 rounded-md"
@@ -367,7 +367,7 @@ export default function Home() {
           />
           <div className="flex flex-col gap-y-5 md:w-1/2">
             <h1 className="text-lg md:text-2xl ">
-              &quot;We&apos;ve been working with Envision Digitals for over 2 years and
+              &quot;We&apos;ve been working with Env for over 2 years and
               they&apos;ve been amazing to work with. They&apos;ve helped us
               grow our business and we couldn&apos;t be happier with the
               results. &quot;
@@ -400,7 +400,7 @@ export default function Home() {
         <div className="flex flex-col  justify-between gap-y-3 xl:w-4/5 2xl:w-[68%] mx-auto">
           <h1 className="text-3xl md:text-5xl font-medium ">
             <Image
-              src={"/logo/envisionDigitals.png"}
+              src={"/logo/logo.webp"}
               width={10000}
               height={10000}
               className="w-40"
