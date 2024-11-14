@@ -32,8 +32,8 @@ xl:w-4/5
     >
       <Link href="/">
       <Image
-        src="/logo/envisionDigitals.png"
-        alt="Envision Digitals"
+        src="/logo/logo.webp"
+        alt="Bird Logo"
         width={1000}
         height={1000}
         className="w-28"
@@ -65,9 +65,9 @@ xl:w-4/5
 
 
       <div className="flex items-center gap-x-4">
-      <a href="tel:3025136613" className="hidden xl:flex">
+      <a href="tel:5193191562" className="hidden xl:flex">
               <button className="px-4 py-2  rounded-md flex items-center gap-x-3 ">
-            (302)-513-6613
+            (302)-513-1562
               </button>
             </a>
 

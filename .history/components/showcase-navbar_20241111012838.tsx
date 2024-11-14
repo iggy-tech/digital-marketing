@@ -32,7 +32,7 @@ xl:w-4/5
     >
       <Link href="/">
       <Image
-        src="/logo/envisionDigitals.png"
+        src="/logo/envisionDigitls.png"
         alt="Envision Digitals"
         width={1000}
         height={1000}

@@ -74,7 +74,7 @@ export default function Home() {
       >
         <Link href={"/"}>
           <Image
-            src={"/logo/envisionDigitals.png"}
+            src={"/logo/logo.webp"}
             alt="Logo"
             width={1000}
             height={1000}
@@ -115,9 +115,9 @@ export default function Home() {
         </div>
 
         <div className="flex items-center gap-x-4">
-          <a href="tel:3025136613" className="hidden lg:flex">
+          <a href="tel:519400200" className="hidden lg:flex">
             <button className="px-4 py-2 rounded-md flex items-center gap-x-3">
-              (302)-513-6613
+              (302)-513-200
             </button>
           </a>
 
@@ -263,11 +263,11 @@ export default function Home() {
                 direction="left"
                 items={[
                   {
-                    logo: "/logo/envisionDigitals.png",
+                    logo: "/logo/logo.webp",
                     name: "Logo",
                   },
                   {
-                    logo: "/logo/envisionDigitals.png",
+                    logo: "/logo/logo.webp",
                     name: "Logo",
                   },
                 ]}
@@ -359,7 +359,7 @@ export default function Home() {
       <section>
         <main className="md:flex items-center justify-center space-y-6 md:space-y-0 md:gap-x-20 xl:w-4/5 2xl:w-[68%] mx-auto px-6 md:px-0">
           <Image
-            src={"/logo/envisionDigitals.png"}
+            src={"/logo/logo.webp"}
             width={10000}
             height={10000}
             className=" md:w-1/3 rounded-md"
@@ -367,7 +367,7 @@ export default function Home() {
           />
           <div className="flex flex-col gap-y-5 md:w-1/2">
             <h1 className="text-lg md:text-2xl ">
-              &quot;We&apos;ve been working with Envision Digitals for over 2 years and
+              &quot;We&apos;ve been working with Bird for over 2 years and
               they&apos;ve been amazing to work with. They&apos;ve helped us
               grow our business and we couldn&apos;t be happier with the
               results. &quot;
@@ -400,21 +400,21 @@ export default function Home() {
         <div className="flex flex-col  justify-between gap-y-3 xl:w-4/5 2xl:w-[68%] mx-auto">
           <h1 className="text-3xl md:text-5xl font-medium ">
             <Image
-              src={"/logo/envisionDigitals.png"}
+              src={"/logo/logo.webp"}
               width={10000}
               height={10000}
               className="w-40"
               alt="image"
             />{" "}
           </h1>
-          <p className="text-left  text-xl  text-gray-500">302-513-6613</p>
+          <p className="text-left  text-xl  text-gray-500">519-200-5000</p>
           <p className="text-left  text-xl  text-gray-500">
-            kasingh@udel.edu
+            admin@birdsoftware.ca
           </p>
         </div>
 
         <div className="flex md:justify-center gap-x-4 mt-10">
-          © 2025 Envision Digitals. All Rights Reserved.
+          © 2025 Bird. All Rights Reserved.
           <Link href="/" className="text-blue-500">
             Privacy Policy
           </Link>
